@@ -1,0 +1,3 @@
+Deployment link for front-end: https://63764ffe6cf2ba262ac49354--baichday.netlify.app/
+
+Deployment link for back-end: https://pacific-sands-58031.herokuapp.com/
