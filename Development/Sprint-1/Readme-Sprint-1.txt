@@ -14,7 +14,8 @@ Deployment link:
 3. 3-4 minutes video that explains the functionality of your system developed so far. This must be uploaded in “Sprint-1” folder of your project’s Github repository. Done and uploaded
 4. Updated architecture and data model must be uploaded in the respective folders on Github. In progress
 5. Test case execution report. Create the test cases document and update the same document with testing result. In progress
-6. Update project schedule on Github. The following two views must be available in Github (a) A table view where use cases are grouped according to Sprints (Sprints view) (c) A board view that reflects the status of development (completed, in progress, to be done).  
+6. Update project schedule on Github. The following two views must be available in Github (a) A table view where use cases are grouped according to Sprints (Sprints view) (c) A board view that reflects the status of development (completed, in progress, to be done).
+Link for Project schedule table: https://github.com/users/Nashit50/projects/3
 
 ------------------------------------------------------------------------------------------------
 
