@@ -9,7 +9,7 @@ Team:
 SPRINT-1 SUBMISSION GUIDELINES
 
 1. Properly tested working system deployed on an online hosting platform.
-Deployment link: 
+Deployment link: https://63c02414fb6a91241707a19d--silver-cuchufli-5603d1.netlify.app/
 2. Code with readable comments uploaded in “Development/Sprint-1” folder of your project’s Github repository. Done and uploaded
 3. 3-4 minutes video that explains the functionality of your system developed so far. This must be uploaded in “Sprint-1” folder of your project’s Github repository. Done and uploaded
 4. Updated architecture and data model must be uploaded in the respective folders on Github. In progress
