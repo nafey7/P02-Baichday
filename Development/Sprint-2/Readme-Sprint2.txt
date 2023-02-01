@@ -6,7 +6,7 @@ Team:
 4. Muhammad Arsalan Tarar - 23100225
 5. Nashit Iftikhar - 23100181
 
-SPRINT-1 SUBMISSION GUIDELINES
+SPRINT-2 SUBMISSION GUIDELINES
 
 1. Properly tested working system deployed on an online hosting platform.
 Deployment link: 
