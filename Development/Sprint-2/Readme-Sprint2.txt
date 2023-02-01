@@ -9,7 +9,7 @@ Team:
 SPRINT-2 SUBMISSION GUIDELINES
 
 1. Properly tested working system deployed on an online hosting platform.
-Deployment link: 
+Deployment link: https://63da36516733147198574e68--silly-gnome-515b85.netlify.app/
 2. Code with readable comments uploaded in “Development/Sprint-2” folder of your project’s Github repository. Done and uploaded
 3. 3-4 minutes video that explains the functionality of your system developed so far. This must be uploaded in “Sprint-2” folder of your project’s Github repository. Done and uploaded
 4. Updated architecture and data model must be uploaded in the respective folders on Github. Done
@@ -45,14 +45,15 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 5. Place Bid on item
 6. Upload Item for Auction
 7. View Product Description
-8. View Profile
-9. Edit Profile Info
-10. Logout
-11. Contact Customer Support
-12. View Bidding History
-13. Admin Dashboard
-14. Rate Bidder (Backend done)
-15. Rate Seller (Backend done)
+8. About Us
+9. View Profile
+10. Edit Profile Info
+11. Logout
+12. Contact Customer Support
+13. View Bidding History
+14. Admin Dashboard
+15. Rate Bidder (Backend done)
+16. Rate Seller (Backend done)
 ------------------------------------------------------------------------------------------------
 
 HOW TO ACCESS THE SYSTEM
