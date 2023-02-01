@@ -31,13 +31,7 @@ LIST OF REQUIREMENTS COMPLETED IN THE SPRINT
 6. Upload Item for Auction
 7. View Product Description
 8. View Profile
-9. Edit Profile Info
-10. Logout
-11. Deactivate Account
-12. Contact Customer Support
-13. View Bidding History
-14. Admin Signin
-15. Admin Dashboard
+9. About Us
 
 ------------------------------------------------------------------------------------------------
 
@@ -54,13 +48,7 @@ LIST OF REQUIREMENTS COMPLETED SO FAR
 6. Upload Item for Auction
 7. View Product Description
 8. View Profile
-9. Edit Profile Info
-10. Logout
-11. Deactivate Account
-12. Contact Customer Support
-13. View Bidding History
-14. Admin Signin
-15. Admin Dashboard
+9. About Us
 ------------------------------------------------------------------------------------------------
 
 HOW TO ACCESS THE SYSTEM
