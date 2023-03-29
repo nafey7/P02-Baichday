@@ -1,0 +1,124 @@
+.about-us {
+    padding-top: 1%;
+    min-height: 100vh;
+    margin-bottom: 0%;
+  }
+  
+  .about-us-title {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-description {
+    font-size: 18px;
+    text-align: justify;
+    text-align: left;
+  }
+
+  .about-us-image {
+    float: right;
+    max-width: 50%;
+  }
+
+
+.aboutus-section {
+    padding: 90px 0;
+    margin: 0 0 0 0;
+    height: 550px;
+}
+.aboutus-title {
+    font-size: 200%;
+    letter-spacing: 0;
+    line-height: 30%x;
+    margin: 0 0 10%;
+    padding: 0 0 5%;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+.aboutus-title::after {
+    background: black none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 27%;
+    position: absolute;
+    width: 45%;
+}
+.aboutus-text {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+
+a:hover, a:active {
+    color: #ffb901;
+    text-decoration: none;
+    outline: 0;
+}
+.aboutus-more {
+    border: 1px solid #fdb801;
+    border-radius: 25px;
+    color: #fdb801;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+.feature .feature-box .iconset {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    position: relative;
+    width: 18%;
+}
+.feature .feature-box .iconset::after {
+    background: black none repeat scroll 0 0;
+    content: "";
+    height: 70%;
+    left: 47%;
+    position: absolute;
+    top: 100%;
+    width: 10px;
+}
+
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+
+
+.feature .feature-box .feature-content {
+    float: left;
+    padding-left: 28px;
+    width: 78%;
+}
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+.feature .feature-box .feature-content p {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+}
+.icon {
+    color : blue;
+    padding:0px;
+    font-size: 50px;
+    height: 50px;
+    text-align: center;
+    width: 50px;
+}
+.feature-icon {
+    font-size: 15px;
+  }
