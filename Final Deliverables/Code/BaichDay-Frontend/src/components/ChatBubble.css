@@ -1,0 +1,17 @@
+.chat-bubble {
+    border-radius: 20px;
+    padding: 10px;
+    max-width: 60%;
+    border-top-left-radius: 0;
+    height: auto;
+    overflow-wrap: break-word;
+  }
+  
+  .chat-bubble-text {
+    font-size: 20px;
+  }
+
+  .MuiGrid-root {
+    padding-left: 0;
+    padding-right: 0;
+  }
